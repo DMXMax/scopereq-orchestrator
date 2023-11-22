@@ -5,7 +5,7 @@ import (
 	"github.com/rs/zerolog/log"
 
 	jira "github.com/DMXMax/jira-subsystem"
-	"github.com/DMXMax/orchestrator"
+	orchestrator "github.com/DMXMax/scopereq-orchestrator"
 )
 
 func init() {
